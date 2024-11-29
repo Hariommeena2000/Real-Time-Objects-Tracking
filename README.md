@@ -20,4 +20,5 @@ Today's multi-object tracking options are heavily dependant on the computation c
 ## Installation
 
 Start with [**Python>=3.9**](https://www.python.org/) environment.
+Install all the required libraries from the requirement.txt file
 
