@@ -14,7 +14,7 @@ This repo contains a collections of pluggable state-of-the-art multi-object trac
 #### News
 
 * Added YOLOv9 and YOLOv10 support
-* 
+* Used DeepSORT for the tracking support
 Today's multi-object tracking options are heavily dependant on the computation capabilities of the underlaying hardware. BoxMOT provides a great variety of tracking methods that meet different hardware limitations, all the way from CPU only to larger GPUs. Morover, we provide scripts for ultra fast experimentation by saving detections and embeddings, which then be loaded into any tracking algorithm. Avoiding the overhead of repeatedly generating this data.
 
 ## Installation
