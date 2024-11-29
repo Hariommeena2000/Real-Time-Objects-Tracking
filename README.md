@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-  <img src="assets/images/result_StrongSort (1) (1) (1).mp4" width="400"/>
+  <img src="assets/images/result_StrongSort111-ezgif.com-video-to-gif-converter.gif" width="400"/>
   </p>
   <br>
   <div>
